@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const cta=document.getElementById('cta');cta&&cta.addEventListener('click',()=>{ if(window.ffGlitchFlash) window.ffGlitchFlash(); });});

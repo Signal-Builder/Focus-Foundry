@@ -1,0 +1,1 @@
+window.ffGlitchFlash=function(){const el=document.body,prev=el.style.filter;el.style.filter='contrast(140%) saturate(140%) hue-rotate(10deg)';setTimeout(()=>el.style.filter=prev,120);}
